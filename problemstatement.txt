@@ -1,0 +1,31 @@
+Data Analytics & Insights
+Build engines that turn raw data into decisions. Customer segmentation, funnel analytics, churn prediction, market research.
+
+Decision Models
+Market Research
+Churn Prediction
+
+Evaluation:
+Projects are evaluated by the Blostem core team on five dimensions. These are weighted but not mechanical — a standout performance in one area can lift the overall score.
+
+Relevance to Brief
+25%
+Does your solution directly address the challenge? Is it specific to fintech, financial services, or your assigned track?
+
+Technical Execution
+25%
+Is the code real and working? Is the architecture sound? Did you deploy it? Code quality, system design, and commit history matter.
+
+Innovation & Thinking
+20%
+Is this a genuinely new angle? Non-obvious approaches and systems thinking are rewarded over incremental tweaks.
+
+Demo & Narrative
+20%
+Can you explain what you built, why it matters, and how it works? A polished, clear demo is half the battle.
+
+Potential & Scale
+10%
+If funded, could it scale? Does it address a real problem with genuine market size in India?
+
+Tip: A working deployed app with a tight narrative beats an impressive codebase that nobody can run. Ship first, polish second.
