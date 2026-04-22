@@ -1,31 +1,42 @@
-Data Analytics & Insights
-Build engines that turn raw data into decisions. Customer segmentation, funnel analytics, churn prediction, market research.
+DATA ANALYTICS & INSIGHTS
 
-Decision Models
-Market Research
-Churn Prediction
+Build a data engine that turns raw information into business decisions.
 
-Evaluation:
-Projects are evaluated by the Blostem core team on five dimensions. These are weighted but not mechanical — a standout performance in one area can lift the overall score.
+Focus Areas
+1. Decision Models
+2. Market Research
+3. Churn Prediction
 
-Relevance to Brief
-25%
-Does your solution directly address the challenge? Is it specific to fintech, financial services, or your assigned track?
+Suggested Problem Directions
+1. Customer segmentation using behavioral and transaction data.
+2. Funnel analytics to identify drop-off points and conversion levers.
+3. Churn risk prediction with actionable retention triggers.
+4. Market intelligence from external and internal datasets.
 
-Technical Execution
-25%
-Is the code real and working? Is the architecture sound? Did you deploy it? Code quality, system design, and commit history matter.
+What Good Solutions Should Show
+1. Clear problem framing and measurable outcomes.
+2. Reliable data processing pipeline and reproducible results.
+3. Insight delivery that supports real business decisions.
+4. A practical path to deployment in fintech or financial services contexts.
 
-Innovation & Thinking
-20%
-Is this a genuinely new angle? Non-obvious approaches and systems thinking are rewarded over incremental tweaks.
+EVALUATION CRITERIA
 
-Demo & Narrative
-20%
-Can you explain what you built, why it matters, and how it works? A polished, clear demo is half the battle.
+Projects are evaluated by the Blostem core team across five dimensions. The weights guide scoring, but standout strength in one dimension can improve overall assessment.
 
-Potential & Scale
-10%
-If funded, could it scale? Does it address a real problem with genuine market size in India?
+1. Relevance to Brief (25%)
+Does the solution directly solve the stated challenge? Is it specific to fintech, financial services, or your assigned track?
 
-Tip: A working deployed app with a tight narrative beats an impressive codebase that nobody can run. Ship first, polish second.
+2. Technical Execution (25%)
+Is the system real, functional, and deployable? Are code quality, architecture, and implementation discipline strong?
+
+3. Innovation and Thinking (20%)
+Does the project introduce a non-obvious approach or original perspective rather than minor iteration?
+
+4. Demo and Narrative (20%)
+Can the team clearly communicate what was built, why it matters, and how it works through a concise, polished demo?
+
+5. Potential and Scale (10%)
+If funded, could this solution scale in India and address a meaningful market problem?
+
+Submission Tip
+A working, deployable product with a focused story usually outperforms an ambitious but incomplete codebase. Ship first, then polish.
